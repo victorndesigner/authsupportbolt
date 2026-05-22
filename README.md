@@ -1,40 +1,41 @@
-# Support Bolt Auth Pages
+# Support Bolt
 
-Site estático para publicação no GitHub Pages com:
+Support Bolt é uma plataforma de automação para comunidades no Discord, criada para centralizar integrações, autenticações e notificações de criadores e perfis conectados.
 
-- página principal
+## O que o Support Bolt faz
+
+O sistema permite que servidores utilizem fluxos automatizados para:
+
+- conectar contas oficiais por OAuth
+- monitorar publicações autorizadas
+- gerar anúncios automáticos em canais configurados
+- personalizar mensagens, menções e identidade visual
+- organizar integrações com plataformas de criadores e serviços externos
+
+## Como a autenticação é usada
+
+Quando uma conta é autorizada em uma integração compatível, o Support Bolt utiliza apenas os dados necessários para operar os recursos solicitados pelo administrador do servidor, como monitoramento de conteúdo, identificação de perfil e publicação de anúncios automáticos.
+
+## Privacidade e responsabilidade
+
+O Support Bolt foi estruturado para operar integrações de forma centralizada, segura e profissional, respeitando o escopo autorizado por cada plataforma conectada. O uso de contas autenticadas ocorre exclusivamente para suportar funcionalidades internas da plataforma.
+
+## Documentação pública
+
+As páginas públicas deste projeto incluem:
+
+- página principal institucional
 - Termos de Serviço
 - Política de Privacidade
 
-## Arquivos
+## Links públicos
 
-- `index.html`
-- `terms.html`
-- `privacy.html`
-- `src/css/styles.css`
-- `src/img/icon.png`
+- Início: `https://victorndesigner.github.io/authsupportbolt/`
+- Termos: `https://victorndesigner.github.io/authsupportbolt/terms.html`
+- Privacidade: `https://victorndesigner.github.io/authsupportbolt/privacy.html`
 
-## Publicação
+## Titularidade
 
-Publique a pasta em um repositório ou mova os arquivos para a raiz de um projeto GitHub Pages.
+Support Bolt é gerenciado por bolttexturas.
 
-URLs finais para este repositório:
-
-- `https://victorndesigner.github.io/authsupportbolt/`
-- `https://victorndesigner.github.io/authsupportbolt/terms.html`
-- `https://victorndesigner.github.io/authsupportbolt/privacy.html`
-
-## URLs para o TikTok Developer Portal
-
-Depois de publicar, use:
-
-- `Web/Desktop URL`: URL da `index.html`
-- `Terms of Service URL`: URL de `terms.html`
-- `Privacy Policy URL`: URL de `privacy.html`
-
-## Visual
-
-O site usa o banner e a thumb padrão atuais do Support Bolt:
-
-- Banner: `https://i.imgur.com/T3kDSje.png`
-- Thumbnail: `https://i.imgur.com/xIlUyxV.png`
+Todos os direitos reservados bolttexturas 2026.
